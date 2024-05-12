@@ -1,0 +1,8 @@
+C:\Users\marif\OneDrive\Documentos\impuesto por pais\impuesto por pais\bin\Debug\impuesto por pais.exe.config
+C:\Users\marif\OneDrive\Documentos\impuesto por pais\impuesto por pais\bin\Debug\impuesto por pais.exe
+C:\Users\marif\OneDrive\Documentos\impuesto por pais\impuesto por pais\bin\Debug\impuesto por pais.pdb
+C:\Users\marif\OneDrive\Documentos\impuesto por pais\impuesto por pais\obj\Debug\impuesto por pais.csproj.AssemblyReference.cache
+C:\Users\marif\OneDrive\Documentos\impuesto por pais\impuesto por pais\obj\Debug\impuesto por pais.csproj.SuggestedBindingRedirects.cache
+C:\Users\marif\OneDrive\Documentos\impuesto por pais\impuesto por pais\obj\Debug\impuesto por pais.csproj.CoreCompileInputs.cache
+C:\Users\marif\OneDrive\Documentos\impuesto por pais\impuesto por pais\obj\Debug\impuesto por pais.exe
+C:\Users\marif\OneDrive\Documentos\impuesto por pais\impuesto por pais\obj\Debug\impuesto por pais.pdb
